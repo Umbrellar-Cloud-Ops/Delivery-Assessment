@@ -1,5 +1,5 @@
 # Delivery-Assessment
-![alt text](https://www.umbrellar.com/themes/default/img/umbrellar-logo-full.svg "Title")
+![alt text](https://github.com/Umbrellar-Cloud-Ops/Delivery-Assessment/blob/main/umbrellar.png "Title")
 
 # Umbrellar Delivery-Assessment
 
